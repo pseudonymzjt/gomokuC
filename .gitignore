@@ -1,0 +1,11 @@
+# Binaries
+gomoku
+*.exe
+*.o
+
+# Logs
+file.txt
+
+# OS files
+.DS_Store
+Thumbs.db
